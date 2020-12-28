@@ -76,3 +76,9 @@ img {
 h1:hover, {
 	transform: scale(1.1);
 }
+img{
+transition-duration: 1s;
+}
+img:hover{
+transform: rotate(360deg);
+}
